@@ -1,0 +1,1 @@
+#Los bugs (bichos) son errores en un programa y pueden ocurrir de forma frecuente. Nuestra 
